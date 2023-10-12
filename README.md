@@ -59,7 +59,7 @@ Kemudian tambahkan kode untuk membuat *Ordered List* seperti berikut.
 
 ```
 
-![Screenshot (295)](https://github.com/rniarzz/Lab3web/assets/115542704/5a88f1fc-f8ba-4006-ad07-49e56442071b)
+![IMG_20231012_230340](https://github.com/MuhammadReza1234/Lab3web/assets/115516607/2bce7d9a-148f-466b-a5fb-ce1b5695d44d)
 
 ---
 
@@ -79,7 +79,7 @@ section unordered-list, seperti berikut.
 </section>
 ```
 
-![Screenshot (296)](https://github.com/rniarzz/Lab3web/assets/115542704/1f70d1b9-7558-431e-9092-815f8737eb7e)
+![IMG_20231012_230450](https://github.com/MuhammadReza1234/Lab3web/assets/115516607/1047e235-5643-4086-9b62-4da0c12ee86b)
 
 ---
 
@@ -102,7 +102,7 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 </section>
 ```
 
-![Screenshot (297)](https://github.com/rniarzz/Lab3web/assets/115542704/4a263429-65fd-40ca-ad79-c6dc0b791ffb)
+![IMG_20231012_230610](https://github.com/MuhammadReza1234/Lab3web/assets/115516607/39b0bd39-f610-4d9c-a2e2-cc47e46feb26)
 
 ---
 
@@ -160,7 +160,7 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut `cellpadding` dan `cellspacing` pada tag table.
 
-![Screenshot (298)](https://github.com/rniarzz/Lab3web/assets/115542704/f357e4f9-121c-4f5f-9a9e-3f2443aa7168)
+![IMG_20231012_230809](https://github.com/MuhammadReza1234/Lab3web/assets/115516607/41ea0438-8902-4348-9c42-45153c6e5036)
 
 ---
 
@@ -202,7 +202,7 @@ horizontal).
 </table>
 ```
 
-![Screenshot (299)](https://github.com/rniarzz/Lab3web/assets/115542704/5c682785-d0f8-4b2c-adfb-2d60d17ed824)
+![IMG_20231012_230910](https://github.com/MuhammadReza1234/Lab3web/assets/115516607/6b05fc2d-53a1-4996-ace9-a6a1135ee62e)
 
 ---
 
@@ -251,7 +251,7 @@ for="jk_p">Perempuan</label>
 </form>
 ```
 
-![Screenshot (300)](https://github.com/rniarzz/Lab3web/assets/115542704/baba5366-11d5-46db-bed1-66759bd774f3)
+![IMG_20231012_231003](https://github.com/MuhammadReza1234/Lab3web/assets/115516607/fbd46641-1879-4d41-aed4-6b27f97f2202)
 
 ---
 
@@ -277,7 +277,7 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
     </style>
 ```
 
-![Screenshot (302)](https://github.com/rniarzz/Lab3web/assets/115542704/2c62c116-30ae-4901-90c1-dbc0afd74cbd)
+![IMG_20231012_231104](https://github.com/MuhammadReza1234/Lab3web/assets/115516607/8ecae6ec-a318-489b-9967-fe3371b76870)
 
 ---
 
@@ -367,6 +367,6 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 
 ## Hasil Run
 
-![Screenshot (303)](https://github.com/rniarzz/Lab3web/assets/115542704/dc376689-73a3-4276-bbe5-aefd7c4191d9)
+![IMG_20231012_231147](https://github.com/MuhammadReza1234/Lab3web/assets/115516607/42ec77a7-6a49-4609-be01-550adc05c262)
 
 <h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
